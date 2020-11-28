@@ -1,3 +1,3 @@
 # Pentago
-this project is an implementation of the popular strategy game pentago using c++ 
-https://en.wikipedia.org/wiki/Pentago
+this project is an implementation of the popular strategy game pentago[1] using c++ 
+[1]https://en.wikipedia.org/wiki/Pentago
